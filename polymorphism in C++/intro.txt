@@ -1,0 +1,4 @@
+Polymorphism means many froms.It is one of the important features of OOP.
+Polymorphism is basically an ability to create variable, a function , or an object that has more than one froms
+Early and late binding:
+Binding means connectiong function calls to a function defintion.

@@ -1,0 +1,5 @@
+Polymorphism is an ability to have multiple forms using one name . In C++ becaues of Polymorphism features with one function name we can perform different tasks at a time.
+
+Polymorphism has two types :
+1) Compile time == Operation Overloading and function Overloading
+2) Run time == Virtual function
